@@ -1,5 +1,4 @@
 #include "raylib.h"
-#include <iostream>
 
 const int SIM_WIDTH = 128;
 const int SIM_HEIGHT = 128;
